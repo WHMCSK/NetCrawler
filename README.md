@@ -1,5 +1,8 @@
 # NetCrawler
-网络爬虫
+网络爬爬
+
+# 环境
+Python3.6
 
 # 下载girl13的美女图片
 
