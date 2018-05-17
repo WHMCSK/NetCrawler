@@ -19,3 +19,8 @@ scrapy crawl girl13
 ```
 
 图片就要开始下载了
+
+
+
+学习列表：
+[python包管理之pip，其实很简单！](./StudyDocs/pip.md)
