@@ -1,26 +1,10 @@
-# NetCrawler
-网络爬爬
+# 爬爬乐园
 
-# 环境
-Python3.6
+## 目标
 
-# 下载girl13的美女图片
-
-首先到girl_spider/girl_spider/settings.py下修改图片保存路径
-
-IMAGES_STORE = '/Volumes/olive/scrapy_files/images'
-
-将'/Volumes/olive/scrapy_files/images'修改为你自己的保存路径
-
-然后执行
-```
-cd girl_spider # 进入/girl_spider目录
-scrapy crawl girl13
-```
-
-图片就要开始下载了
-
-
-
-学习列表：
-[python包管理之pip，其实很简单！](./StudyDocs/pip.md)
+* 爬取美女网站图片【已实现】
+* 爬取给定的网站的全部图片、视频、网页、样式、程序的资源
+* 建立已爬取的信息的搜索引擎
+* 爬取淘宝、京东的格式化的商品信息
+* 根据给定的知识，在网上爬取关联的知识，通过互联网爬取建立知识库
+* 给知识库做一个漂亮的云图的展示和编辑界面
