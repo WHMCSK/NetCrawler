@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{6D7914BA-B761-4B99-A453-E999816EACDB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="README.md">
+    <Files>
+      <File FileName="NetCrawler/Program.cs" Line="10" Column="48" />
+      <File FileName="NetCrawler/Common/MovieInfoHelper.cs" Line="55" Column="74" />
+      <File FileName="NetCrawler/Models/Movies.cs" Line="11" Column="1" />
+      <File FileName="NetCrawler/Common/LogHelper.cs" Line="13" Column="1" />
+      <File FileName="NetCrawler/Crawler/Girl13Crawler.cs" Line="35" Column="21" />
+      <File FileName="NetCrawler/Crawler/Dy2018MovieCrawler.cs" Line="184" Column="18" />
+      <File FileName="NetCrawler/Models/CrawlerConfigurations.cs" Line="25" Column="6" />
+      <File FileName="NetCrawler/Common/AvailableProxyHepler.cs" Line="12" Column="15" />
+      <File FileName="NetCrawler/Common/ConstsConf.cs" Line="7" Column="112" />
+      <File FileName="NetCrawler/Helper/Extension.cs" Line="12" Column="10" />
+      <File FileName="NetCrawler/Data/DataContext.cs" Line="20" Column="39" />
+      <File FileName="Test/Test.MySqlConnect/Controllers/HomeController.cs" Line="13" Column="37" />
+      <File FileName="Test/Test.MySqlConnect/Controllers/DataContext.cs" Line="3" Column="12" />
+      <File FileName="Test/Test.MySqlConnect/Controllers/Blog.cs" Line="2" Column="15" />
+      <File FileName="Test/Test.MySqlConnect/Controllers/User.cs" Line="2" Column="15" />
+      <File FileName="NetCrawler/Models/GirlsPics.cs" Line="9" Column="49" />
+      <File FileName="README.md" Line="22" Column="1" />
+      <File FileName="Docs/issues.md" Line="12" Column="16" />
+      <File FileName="NetCrawler/Common/HTTPHelper.cs" Line="58" Column="34" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Volumes/olive/Laboratory/NetCrawler/NetCrawler/NetCrawler/Crawler/Dy2018MovieCrawler.cs" relfile="NetCrawler/Crawler/Dy2018MovieCrawler.cs" line="73" column="1" />
+      <Breakpoint file="/Volumes/olive/Laboratory/NetCrawler/NetCrawler/NetCrawler/Common/HTTPHelper.cs" relfile="NetCrawler/Common/HTTPHelper.cs" line="160" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Test.Test.MySqlConnect PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.NetCrawler PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

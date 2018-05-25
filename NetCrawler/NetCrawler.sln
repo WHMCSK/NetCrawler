@@ -1,0 +1,45 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCrawler", "NetCrawler\NetCrawler.csproj", "{6D7914BA-B761-4B99-A453-E999816EACDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCrawler.API", "NetCrawler.API\NetCrawler.API.csproj", "{A3CEC44D-20ED-47B1-BF23-7CFC91537754}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{F8A5F177-C709-48E6-9B3A-32B287E84A45}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test.MySqlConnect", "Test\Test.MySqlConnect\Test.MySqlConnect.csproj", "{4493BD2C-7C6C-4352-81C8-F37824A24A6E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1BF84CD8-A0D6-43CA-BB4F-3EB0D6626CEB}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Docs", "Docs", "{A74F0F6E-1871-433B-974F-EFBEE593938C}"
+	ProjectSection(SolutionItems) = preProject
+		Docs\issues.md = Docs\issues.md
+		Docs\causerie.md = Docs\causerie.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6D7914BA-B761-4B99-A453-E999816EACDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D7914BA-B761-4B99-A453-E999816EACDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D7914BA-B761-4B99-A453-E999816EACDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D7914BA-B761-4B99-A453-E999816EACDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3CEC44D-20ED-47B1-BF23-7CFC91537754}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3CEC44D-20ED-47B1-BF23-7CFC91537754}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3CEC44D-20ED-47B1-BF23-7CFC91537754}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3CEC44D-20ED-47B1-BF23-7CFC91537754}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4493BD2C-7C6C-4352-81C8-F37824A24A6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4493BD2C-7C6C-4352-81C8-F37824A24A6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4493BD2C-7C6C-4352-81C8-F37824A24A6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4493BD2C-7C6C-4352-81C8-F37824A24A6E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4493BD2C-7C6C-4352-81C8-F37824A24A6E} = {F8A5F177-C709-48E6-9B3A-32B287E84A45}
+	EndGlobalSection
+EndGlobal
