@@ -133,7 +133,7 @@ namespace NetCrawler.Crawler
 
 
 
-        private static Movies GetMovieInfoURL(string onlineURL)
+        private static Movie GetMovieInfoURL(string onlineURL)
         {
             try
             {
@@ -149,7 +149,7 @@ namespace NetCrawler.Crawler
                 {
                     DateTime.TryParse(infoTable[1].TextContent.Replace("发布时间", "").Replace("\n", ""), out pubDate);
                 }
-                return new Movies()
+                return new Movie()
                 {
                     MovieName = nameDom?.TextContent ?? "获取名称失败...",
                     OnlineUrl = onlineURL,

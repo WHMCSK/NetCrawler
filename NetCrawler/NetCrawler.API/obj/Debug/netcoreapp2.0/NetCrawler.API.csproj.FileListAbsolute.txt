@@ -8,3 +8,13 @@
 /Volumes/olive/实验室/NetCrawler/NetCrawler/NetCrawler.API/obj/Debug/netcoreapp2.0/NetCrawler.API.AssemblyInfo.cs
 /Volumes/olive/实验室/NetCrawler/NetCrawler/NetCrawler.API/obj/Debug/netcoreapp2.0/NetCrawler.API.dll
 /Volumes/olive/实验室/NetCrawler/NetCrawler/NetCrawler.API/obj/Debug/netcoreapp2.0/NetCrawler.API.pdb
+/Volumes/olive/Laboratory/NetCrawler/NetCrawler/NetCrawler.API/bin/Debug/netcoreapp2.0/NetCrawler.API.deps.json
+/Volumes/olive/Laboratory/NetCrawler/NetCrawler/NetCrawler.API/bin/Debug/netcoreapp2.0/NetCrawler.API.runtimeconfig.json
+/Volumes/olive/Laboratory/NetCrawler/NetCrawler/NetCrawler.API/bin/Debug/netcoreapp2.0/NetCrawler.API.runtimeconfig.dev.json
+/Volumes/olive/Laboratory/NetCrawler/NetCrawler/NetCrawler.API/bin/Debug/netcoreapp2.0/NetCrawler.API.dll
+/Volumes/olive/Laboratory/NetCrawler/NetCrawler/NetCrawler.API/bin/Debug/netcoreapp2.0/NetCrawler.API.pdb
+/Volumes/olive/Laboratory/NetCrawler/NetCrawler/NetCrawler.API/obj/Debug/netcoreapp2.0/NetCrawler.API.csproj.CoreCompileInputs.cache
+/Volumes/olive/Laboratory/NetCrawler/NetCrawler/NetCrawler.API/obj/Debug/netcoreapp2.0/NetCrawler.API.AssemblyInfoInputs.cache
+/Volumes/olive/Laboratory/NetCrawler/NetCrawler/NetCrawler.API/obj/Debug/netcoreapp2.0/NetCrawler.API.AssemblyInfo.cs
+/Volumes/olive/Laboratory/NetCrawler/NetCrawler/NetCrawler.API/obj/Debug/netcoreapp2.0/NetCrawler.API.dll
+/Volumes/olive/Laboratory/NetCrawler/NetCrawler/NetCrawler.API/obj/Debug/netcoreapp2.0/NetCrawler.API.pdb

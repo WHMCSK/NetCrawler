@@ -17,8 +17,8 @@ namespace NetCrawler.Common
     /// </summary>
     public class MovieInfoHelper
     {
-
-        private ConcurrentDictionary<string, Movies> _cdMovieInfo = new ConcurrentDictionary<string, Movies>();
+        
+        private ConcurrentDictionary<string, Movie> _cdMovieInfo = new ConcurrentDictionary<string, Movie>();
 
 
         private string _movieJsonFilePath = "";
@@ -52,7 +52,7 @@ namespace NetCrawler.Common
                     //构建Json.net的读取流  
                     using (var reader = new JsonTextReader(sr))
                     {
-                        var lstMovie = serializer.Deserialize<List<Movies>>(reader);
+                        var lstMovie = serializer.Deserialize<List<Movie>>(reader);
                         foreach (var movie in lstMovie.GroupBy(m => m.OnlineUrl))
                         {
                             if (!_cdMovieInfo.ContainsKey(movie.Key))
@@ -76,7 +76,7 @@ namespace NetCrawler.Common
         /// 获取当前的电影列表
         /// </summary>
         /// <returns></returns>
-        public List<Movies> GetListMoveInfo()
+        public List<Movie> GetListMoveInfo()
         {
             return _cdMovieInfo.Values.OrderByDescending(m => m.PubDate).ToList();
         }
@@ -86,7 +86,7 @@ namespace NetCrawler.Common
         /// </summary>
         /// <param name="movieInfo"></param>
         /// <returns></returns>
-        public bool AddToMovieDic(Movies movieInfo)
+        public bool AddToMovieDic(Movie movieInfo)
         {
             if (movieInfo != null && !_cdMovieInfo.ContainsKey(movieInfo.OnlineUrl))
             {
@@ -112,7 +112,7 @@ namespace NetCrawler.Common
         /// </summary>
         /// <param name="key">OnlineURL</param>
         /// <returns></returns>
-        public Movies GetMovieInfo(String key)
+        public Movie GetMovieInfo(String key)
         {
             if (_cdMovieInfo.ContainsKey(key))
                 return _cdMovieInfo[key];

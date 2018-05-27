@@ -13,7 +13,7 @@ namespace NetCrawler.Data
 {
     public class DataContext : DbContext
     {
-        public DbSet<Movies> Movies { set; get; }
+        public DbSet<Movie> Movies { set; get; }
 
         public DbSet<CrawlerConfigurations> CrawlerConfigurations { get; set; }
 

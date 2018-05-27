@@ -157,7 +157,7 @@ namespace NetCrawler.Crawler
         /// </summary>
         /// <param name="onlineURL"></param>
         /// <returns></returns>
-        private static Movies GetMovieInfoFromURL(string onlineURL)
+        private static Movie GetMovieInfoFromURL(string onlineURL)
         {
             try
             {
@@ -175,7 +175,7 @@ namespace NetCrawler.Crawler
                 }
                 var lstURL = lstDownLoadURL.Select(a => a.QuerySelector("a")?.TextContent ?? "");
                 var movieName = movieDoc.QuerySelector("div.title_all")?.QuerySelector("h1");
-                var movieInfo = new Movies()
+                var movieInfo = new Movie()
                 {
                     MovieName = movieName.TextContent ?? "找不到影片信息...",
                     OnlineUrl = onlineURL,

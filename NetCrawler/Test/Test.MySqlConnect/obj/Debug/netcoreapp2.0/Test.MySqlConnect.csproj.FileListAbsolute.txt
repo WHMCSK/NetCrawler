@@ -1,10 +1,10 @@
-/Volumes/olive/Laboratory/NetCrawler/NetCrawler/Test/Test.MySqlConnect/obj/Debug/netcoreapp2.0/Test.MySqlConnect.csproj.CoreCompileInputs.cache
-/Volumes/olive/Laboratory/NetCrawler/NetCrawler/Test/Test.MySqlConnect/obj/Debug/netcoreapp2.0/Test.MySqlConnect.AssemblyInfoInputs.cache
-/Volumes/olive/Laboratory/NetCrawler/NetCrawler/Test/Test.MySqlConnect/obj/Debug/netcoreapp2.0/Test.MySqlConnect.AssemblyInfo.cs
 /Volumes/olive/Laboratory/NetCrawler/NetCrawler/Test/Test.MySqlConnect/bin/Debug/netcoreapp2.0/Test.MySqlConnect.deps.json
 /Volumes/olive/Laboratory/NetCrawler/NetCrawler/Test/Test.MySqlConnect/bin/Debug/netcoreapp2.0/Test.MySqlConnect.runtimeconfig.json
 /Volumes/olive/Laboratory/NetCrawler/NetCrawler/Test/Test.MySqlConnect/bin/Debug/netcoreapp2.0/Test.MySqlConnect.runtimeconfig.dev.json
 /Volumes/olive/Laboratory/NetCrawler/NetCrawler/Test/Test.MySqlConnect/bin/Debug/netcoreapp2.0/Test.MySqlConnect.dll
 /Volumes/olive/Laboratory/NetCrawler/NetCrawler/Test/Test.MySqlConnect/bin/Debug/netcoreapp2.0/Test.MySqlConnect.pdb
+/Volumes/olive/Laboratory/NetCrawler/NetCrawler/Test/Test.MySqlConnect/obj/Debug/netcoreapp2.0/Test.MySqlConnect.csproj.CoreCompileInputs.cache
+/Volumes/olive/Laboratory/NetCrawler/NetCrawler/Test/Test.MySqlConnect/obj/Debug/netcoreapp2.0/Test.MySqlConnect.AssemblyInfoInputs.cache
+/Volumes/olive/Laboratory/NetCrawler/NetCrawler/Test/Test.MySqlConnect/obj/Debug/netcoreapp2.0/Test.MySqlConnect.AssemblyInfo.cs
 /Volumes/olive/Laboratory/NetCrawler/NetCrawler/Test/Test.MySqlConnect/obj/Debug/netcoreapp2.0/Test.MySqlConnect.dll
 /Volumes/olive/Laboratory/NetCrawler/NetCrawler/Test/Test.MySqlConnect/obj/Debug/netcoreapp2.0/Test.MySqlConnect.pdb
